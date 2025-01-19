@@ -7,7 +7,7 @@ Utilized tidyverse, corrplot, lubridate, caTools, GGally, caret, and leaps libra
 The data for this project was sourced from the Kaggle dataset titled “KC_Housesales_Data”. 
 The dataset can be accessed at: https://www.kaggle.com/swathiachath/kc-housesales-data
 
-To view the source code, download `myproject.rmd` To view the report, download `House Sales Data Analysis in King County, WA.pdf`
+To view the source code, download `myproject.rmd`. To view the report, download `House Sales Data Analysis in King County, WA.pdf`. To view source code with outputs, download `myprojectKnit.pdf`.
 
 # Project Highlights
 Prepared a dataset of 21,000+ records, conducting exploratory analysis (R) to identify patterns, relationships, and outliers.
