@@ -1,5 +1,4 @@
-# House-Sales-Analysis
-House Sales Data Analysis in King County, WA 
+
 # Summary
 Online property companies use machine learning techniques to provide house valuations. This project aims to predict house sales in King County, Washington State, USA using Multiple Linear Regression (MLR). The dataset includes historical records of houses sold between May 2014 and May 2015. This project was created by Christopher Wong, for Professor You Liang (course MTH404).
 
